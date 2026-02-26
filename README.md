@@ -13,4 +13,4 @@ Connect swd interface
 
 Wait 10 sec and enjoy.
 
-Project is a port: https://github.com/brother-yan/LGTISP
+Project is a port of: https://github.com/brother-yan/LGTISP
