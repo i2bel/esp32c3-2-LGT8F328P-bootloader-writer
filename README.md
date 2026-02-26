@@ -8,3 +8,7 @@ Connect swd interface
     Dont forget +3.3 and GND.
 
     Set parameters as on picture pic1.jpg
+
+Wait 10 sec and enjoy.
+
+Project is a port: https://github.com/brother-yan/LGTISP
