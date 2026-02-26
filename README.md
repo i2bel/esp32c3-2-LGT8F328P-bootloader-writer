@@ -1,5 +1,7 @@
 esp32c3-2-LGT8F328P-bootloader-writer
 
+Use esp32c3 as a avr programmer for restore bootloader or programming through swd interface LGT8F328p chips.
+
 Connect lgt8f328p chip to esp32c3. Use ArduinoIDE for upload bootloader. Set chip - LGT8f328p. Set port - usb port on which esp32c3 connected.
 Connect swd interface     
     SWC_PIN=4 esp32c3 to SWC LGT8f328p
